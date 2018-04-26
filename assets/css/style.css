@@ -60,7 +60,7 @@ header {
 }
 
 .header-left div {
-	background-image: url('assets/images/CV-Photo-bw.jpg');
+	background-image: url('../images/CV-Photo-bw.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 120px;
